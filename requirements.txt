@@ -1,0 +1,4 @@
+openai migrate
+praw
+python-dotenv
+tqdm
