@@ -49,10 +49,10 @@ pip install -r requirements.txt
 ### 3. Create a .env file
 Create a .env file in the root directory:
 
-REDDIT_CLIENT_ID=your_reddit_client_id
-REDDIT_CLIENT_SECRET=your_reddit_client_secret
-REDDIT_USER_AGENT=persona_extractor
-OPENAI_API_KEY=your_openai_api_key
+REDDIT_CLIENT_ID=your_reddit_client_id <br>
+REDDIT_CLIENT_SECRET=your_reddit_client_secret <br>
+REDDIT_USER_AGENT=persona_extractor <br>
+OPENAI_API_KEY=your_openai_api_key <br>
 
 ### 🧪 How to Run
 
